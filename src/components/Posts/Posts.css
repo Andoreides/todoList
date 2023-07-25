@@ -1,0 +1,8 @@
+.posts__div{
+    display:flex;
+    flex-direction: column;
+}
+
+.posts__back {
+    width:300px;
+}

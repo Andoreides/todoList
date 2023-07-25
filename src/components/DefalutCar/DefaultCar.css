@@ -1,0 +1,31 @@
+.car__h3 {
+    font-size: 40px;
+    margin: 25px 0 0 0;
+}
+
+.car__div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+    margin: auto;
+    background: #00bfff;
+    color: #fff;
+    height: 600px;
+    border-radius: 15px;
+}
+
+.car__p{
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    border-bottom: 3px solid #0000ff;
+
+}
+.car__img{
+    border-radius: 30px;
+    width: 300px;
+    height: 300px;
+    /*margin-bottom: 30px;*/
+}

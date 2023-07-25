@@ -1,0 +1,10 @@
+.span{
+    color: red;
+
+}
+
+.style {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}

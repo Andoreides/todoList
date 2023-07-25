@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background: gray;
+}
+
+
+
+
+.input {
+
+  width: 300px;
+  margin: 10px 20px;
+  resize: vertical;
+  padding:15px;
+  border-radius:15px;
+  border:0;
+  box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+  height:50px;
+}
