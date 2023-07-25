@@ -60,8 +60,6 @@ const TodoPage = () => {
     dispatch({ type: "ADD_TODO", payload: newMap });
   };
 
-  // console.log('list', list)
-  // Не нужно оставлять консоль логи!!!
 
   const filteredItems = list?.filter((item) => {
     return item.todo.toLowerCase().includes(inputFilter.toLowerCase());
